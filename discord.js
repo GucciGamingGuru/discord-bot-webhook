@@ -1,7 +1,7 @@
 module.exports = {
-    hookId: '',
-    hookToken: '',
-    userName:'',
+    hookId: '280151990535979021',
+    hookToken: 'wamhJ3Mh4Zek5J_44gEyo9IEmKvRCdZBxqMad0VMld-Qdooyy-nNk9Mq-lD603JoipWw',
+    userName:'Spidey Bot',
     avatarUrl:'',
     sendMessage:  function(msg) {
         var querystring = require('querystring');
